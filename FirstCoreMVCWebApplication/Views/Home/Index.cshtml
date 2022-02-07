@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@*<div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>*@
+
+<h2> Unobstrusive Validations </h2>
+<hr />
+<form method="post" class="form-horizontal">
+    <div class="form-group">
+        <label class="control-label col-sm-3">Roll No.</label>
+        <div class="col-sm-9">
+            <input type="text" name="rollno" class="form-control " data-val="true" data-val-required="Roll No. is Required" data-val-regex-pattern="[0-9]{1,3}$" data-val-regex="Invalid Rollno " />
+            @Html.ValidationMessage("rollno")
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-sm-3">Name</label>
+        <div class="col-sm-9">
+            @Html.TextBox("sname", null, new { @class = "form-control", data_val = "true", data_val_required = "Name is Required" })
+            @Html.ValidationMessage("sname")
+
+        </div>
+    </div>
+
+    <div class="form-group">
+        
+            <label class="control-label col-sm-3">Email</label>
+            <div class="col-sm-9">
+                @Html.TextBox("email", null, new { @class = "form-control", data_val = "true", data_val_required = "Email is Required" })
+                @Html.ValidationMessage("email")
+            </div>
+            
+        </div> 
+
+
+    <div class="form-group">
+        <label class="control-label col-sm-3">Contact No.</label>
+        <div class="col-sm-3">
+            @Html.TextBox("contact", null, new { @class = "form-control", data_val = "true", data_val_required = "Contact is Blank", data_val_regex_pattern = "[0-9]{10}$", data_val_regex = "Invalid Contactno" })
+            @Html.ValidationMessage("contact")
+        </div>
+
+    </div>
+    <div class="form-group">
+        <label class="control-label col-sm-3">City</label>
+        
+        <div class="col-sm-4">
+        @Html.DropDownList("city", new List<SelectListItem>
+        {
+        new SelectListItem{Text="Pathankot",Value="1" },
+        new SelectListItem{Text="Gurdaspur", Value="2"},
+        new SelectListItem{Text="Amritsar", Value="3"}
+        })
+
+    </div>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Register" class="btn btn-primary col-sm-offset-4" />
+    </div>
+</form>
+
+@section Validation
+    {
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
+

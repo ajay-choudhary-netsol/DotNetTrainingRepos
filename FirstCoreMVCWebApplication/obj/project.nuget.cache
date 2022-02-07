@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LwkhjdD+T4oLkcL5pqF4TDWeNCML83sVHyG/p9xCW8m2/xtrBRFQpfwzpqhjAAqzBfAOEkXfIZ1c+0aLil4rJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ajay Choudhary\\source\\repos\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajay Choudhary\\.nuget\\packages\\jquery\\1.4.4\\jquery.1.4.4.nupkg.sha512",
+    "C:\\Users\\Ajay Choudhary\\.nuget\\packages\\jquery.validation\\1.19.3\\jquery.validation.1.19.3.nupkg.sha512"
+  ],
+  "logs": []
+}
