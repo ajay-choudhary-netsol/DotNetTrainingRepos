@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Employees";
+}
+@using EmployeeMVCAppLINQ.Models;
+@model IEnumerable<EmployeeModel>
+<h2>Employee Details</h2>
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Employee ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Department</th>
+            <th scope="col">Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @*<th scope="row"></th>*@
+                <td>@Html.ActionLink(item.EmployeeId.ToString(),"EmployeeDetails","Employee",new { id = @item.EmployeeId })</td>
+                <td>@item.EmployeeName</td>
+                <td>@item.Emailid</td>
+                <td>@item.Department</td>
+                <td>@item.Salary</td>
+            </tr>
+
+        }
+    </tbody>
+</table>
