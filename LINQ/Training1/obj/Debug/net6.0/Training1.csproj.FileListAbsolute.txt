@@ -1,0 +1,15 @@
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\bin\Debug\net6.0\Training1.exe
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\bin\Debug\net6.0\Training1.deps.json
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\bin\Debug\net6.0\Training1.runtimeconfig.json
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\bin\Debug\net6.0\Training1.dll
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\bin\Debug\net6.0\ref\Training1.dll
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\bin\Debug\net6.0\Training1.pdb
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\obj\Debug\net6.0\Training1.csproj.AssemblyReference.cache
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\obj\Debug\net6.0\Training1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\obj\Debug\net6.0\Training1.AssemblyInfoInputs.cache
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\obj\Debug\net6.0\Training1.AssemblyInfo.cs
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\obj\Debug\net6.0\Training1.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\obj\Debug\net6.0\Training1.dll
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\obj\Debug\net6.0\ref\Training1.dll
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\obj\Debug\net6.0\Training1.pdb
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\LINQ\Training1\obj\Debug\net6.0\Training1.genruntimeconfig.cache
