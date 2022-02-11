@@ -20,6 +20,7 @@ namespace NS.EMS.WEB.Controllers
         //{
         //    return View();
         //}
+       
         public IActionResult Create()
         {
             return View();
@@ -27,8 +28,41 @@ namespace NS.EMS.WEB.Controllers
         [HttpPost]
         public IActionResult Create(EmployeeModel employeeModel)
         {
-            _IEmployeeBusiness.AddEmployee(employeeModel);
+            if (ModelState.IsValid)
+            {
+                _IEmployeeBusiness.AddEmployee(employeeModel);
+                return RedirectToAction("Create", "Employee");
+            }
             return View();
+        }
+
+        public IActionResult GetAllEmployees()
+        {
+            return View(_IEmployeeBusiness.GetAllEmployees());
+        }
+
+
+
+        [HttpGet]
+        public IActionResult EditEmployee(int id)
+        {
+            return View(_IEmployeeBusiness.GetEmployeeById(id));
+        }
+
+
+
+        [HttpPost]
+        public IActionResult EditEmployee(EmployeeModel employeeeModel,int id)
+        {
+            if (ModelState.IsValid)
+            {
+                _IEmployeeBusiness.EditEmployee(employeeeModel, id);
+                return RedirectToAction("GetAllEmployees","Employee");
+            }
+            else
+            {
+                return View();
+            }
         }
     }
 }

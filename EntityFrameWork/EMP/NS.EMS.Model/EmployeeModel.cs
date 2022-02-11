@@ -11,11 +11,15 @@ namespace NS.EMS.Model
         public int EID{ get; set; }
 
         [Required (ErrorMessage ="required Field")]
-        
-        
         public string EmployeeName{ get; set; }
+
+        [Required(ErrorMessage = "required Field")]
         public  string Email { get; set; }
+
+        [Required(ErrorMessage = "required Field")]
         public string Department { get; set; }
+
+        [Required(ErrorMessage = "required Field")]
         public string Mobile { get; set; }
     }
 }

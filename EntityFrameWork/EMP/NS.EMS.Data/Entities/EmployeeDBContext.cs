@@ -33,7 +33,7 @@ namespace NS.EMS.WEB.Entities
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Employee>(entity =>
+            modelBuilder.Entity<Employee>(entity => 
             {
                 entity.HasKey(e => e.Eid);
 
