@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RK+3KD0M+onziDalmSX+h1FSOHmY9UB3kWvDUeqcvSOpDXUC7tbFv7b/SK8QqeZMrbCb6YJjOWLHY7FDw366IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ajay Choudhary\\Desktop\\dotnettrainings\\EntityFrameWork\\EMP\\NS.EMS.Model\\NS.EMS.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajay Choudhary\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ajay Choudhary\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ajay Choudhary\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Model\bin\Debug\netstandard2.0\NS.EMS.Model.deps.json
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Model\bin\Debug\netstandard2.0\NS.EMS.Model.dll
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Model\bin\Debug\netstandard2.0\NS.EMS.Model.pdb
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Model\obj\Debug\netstandard2.0\NS.EMS.Model.csprojAssemblyReference.cache
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Model\obj\Debug\netstandard2.0\NS.EMS.Model.AssemblyInfoInputs.cache
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Model\obj\Debug\netstandard2.0\NS.EMS.Model.AssemblyInfo.cs
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Model\obj\Debug\netstandard2.0\NS.EMS.Model.dll
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Model\obj\Debug\netstandard2.0\NS.EMS.Model.pdb
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Model\obj\Debug\netstandard2.0\NS.EMS.Model.csproj.CoreCompileInputs.cache
