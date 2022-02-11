@@ -32,7 +32,10 @@ namespace NS.EMS.Business
         {
             return _IEmployeeRepo.EditEmployee(employeeModel,id);
         }
-
+        public bool DeleteEmployee(EmployeeModel employeeModel,int id)
+        {
+            return _IEmployeeRepo.DeleteEmployee(employeeModel, id);
+        }
 
     }
 

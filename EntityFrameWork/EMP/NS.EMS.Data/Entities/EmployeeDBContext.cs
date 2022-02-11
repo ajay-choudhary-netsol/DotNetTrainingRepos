@@ -28,6 +28,7 @@ namespace NS.EMS.WEB.Entities
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 optionsBuilder.UseSqlServer("Server=LAPTOP-0060IK5H\\SQLEXPRESS;Database=EMS;Trusted_Connection=True;");
+            
             }
         }
 

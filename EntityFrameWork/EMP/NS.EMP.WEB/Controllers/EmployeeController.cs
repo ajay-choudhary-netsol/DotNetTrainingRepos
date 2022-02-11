@@ -64,5 +64,11 @@ namespace NS.EMS.WEB.Controllers
                 return View();
             }
         }
+
+        public IActionResult DeleteEmployee(EmployeeModel employeeModel,int id)
+        {
+            _IEmployeeBusiness.DeleteEmployee(employeeModel, id);
+            return RedirectToAction("GetAllEmployees", "Employee");
+        }
     }
 }

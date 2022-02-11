@@ -16,5 +16,7 @@ namespace NS.EMS.Repository
       
         bool EditEmployee(EmployeeModel employeeModel,int id);
 
+        bool DeleteEmployee(EmployeeModel employeeModel, int id);
+
     }
 }

@@ -14,5 +14,6 @@ namespace NS.EMS.Business
 
         public Employee GetEmployeeById(int id);
         public bool EditEmployee(EmployeeModel employeeModel,int id);
+        public bool DeleteEmployee(EmployeeModel employeeModel, int id);
     }
 }
