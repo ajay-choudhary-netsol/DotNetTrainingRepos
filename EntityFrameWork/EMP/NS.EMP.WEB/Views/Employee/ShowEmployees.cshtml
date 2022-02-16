@@ -1,0 +1,35 @@
+﻿@using NS.EMS.Data.Entities;
+@model List<NS.EMS.Model.EmployeeDeptModel>
+
+
+<h2>Employee Details</h2>
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Contact No.</th>
+            <th scope="col">Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            @*<th scope="row"></th>*@
+            <td>@item.EID</td>
+            <td>@item.EmployeeName</td>
+            <td>@item.Email</td>
+
+            <td>@item.Mobile</td>
+            @*<td>@item.Deptid</td>*@
+            <td>@item.DeptName</td>
+            
+            
+        </tr>
+
+        }
+    </tbody>
+</table>

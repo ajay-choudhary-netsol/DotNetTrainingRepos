@@ -7,3 +7,6 @@ C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Data\
 C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Data\obj\Debug\netstandard2.0\NS.EMS.Data.csproj.CoreCompileInputs.cache
 C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Data\obj\Debug\netstandard2.0\NS.EMS.Data.dll
 C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Data\obj\Debug\netstandard2.0\NS.EMS.Data.pdb
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Data\bin\Debug\netstandard2.0\NS.EMS.Model.dll
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Data\bin\Debug\netstandard2.0\NS.EMS.Model.pdb
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMS.Data\obj\Debug\netstandard2.0\NS.EMS.Data.csproj.CopyComplete

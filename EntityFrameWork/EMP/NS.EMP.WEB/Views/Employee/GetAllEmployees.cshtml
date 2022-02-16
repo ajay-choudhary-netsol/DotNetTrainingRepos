@@ -3,8 +3,8 @@
     ViewData["Title"] = "GetAllEmployees";
 }
 
-@model IEnumerable< NS.EMS.WEB.Entities.Employee >
-<h2>Student Details</h2>
+@model IEnumerable< NS.EMS.Data.Entities.Employee >
+<h2>Employee Details</h2>
 <hr />
 <table class="table">
     <thead>
@@ -24,7 +24,7 @@
                 <td>@item.Eid</td>
                 <td>@item.EmployeeName</td>
                 <td>@item.Email</td>
-                <td>@item.Department</td>
+               @* <td>@item.Department</td>*@
                 <td>@item.Mobile</td>
                 <td>@Html.ActionLink("EditEmployee", "EditEmployee", new { id = item.Eid })</td>
                 <td>@Html.ActionLink("DeleteEmployee", "DeleteEmployee", new { id = @item.Eid })</td>

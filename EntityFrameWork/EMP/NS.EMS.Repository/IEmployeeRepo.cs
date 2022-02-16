@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using NS.EMS.Model;
-using NS.EMS.WEB.Entities;
+using NS.EMS.Data.Entities;
 
 namespace NS.EMS.Repository
 {
@@ -17,6 +17,8 @@ namespace NS.EMS.Repository
         bool EditEmployee(EmployeeModel employeeModel,int id);
 
         bool DeleteEmployee(EmployeeModel employeeModel, int id);
+
+         List<EmployeeDeptModel> ShowEmployees();
 
     }
 }

@@ -1,5 +1,5 @@
 ﻿using NS.EMS.Model;
-using NS.EMS.WEB.Entities;
+using NS.EMS.Data.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -15,5 +15,7 @@ namespace NS.EMS.Business
         public Employee GetEmployeeById(int id);
         public bool EditEmployee(EmployeeModel employeeModel,int id);
         public bool DeleteEmployee(EmployeeModel employeeModel, int id);
+
+        public List<EmployeeDeptModel> ShowEmployees();
     }
 }

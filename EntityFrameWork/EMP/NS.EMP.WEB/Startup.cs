@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using NS.EMS.Business;
 using NS.EMS.Repository;
-using NS.EMS.WEB.Entities;
+using NS.EMS.Data.Entities;
 
 namespace NS.EMP.WEB
 {

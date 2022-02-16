@@ -7,18 +7,9 @@ using System.Collections.Generic;
 
 namespace NS.EMS.Data.Entities
 {
-    public partial class Employee
+    public partial class Dept
     {
-        public int Eid { get; set; }
-        public string EmployeeName { get; set; }
-        public string Email { get; set; }
-        public string Mobile { get; set; }
         public int Deptid { get; set; }
-
-        public string Gender { get; set; }
-
-
-       
- 
+        public string DeptName { get; set; }
     }
 }

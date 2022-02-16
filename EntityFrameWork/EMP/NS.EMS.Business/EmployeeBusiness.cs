@@ -1,6 +1,6 @@
 ﻿using NS.EMS.Model;
 using NS.EMS.Repository;
-using NS.EMS.WEB.Entities;
+using NS.EMS.Data.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -35,6 +35,12 @@ namespace NS.EMS.Business
         public bool DeleteEmployee(EmployeeModel employeeModel,int id)
         {
             return _IEmployeeRepo.DeleteEmployee(employeeModel, id);
+        }
+
+
+        public List<EmployeeDeptModel> ShowEmployees()
+        {
+            return _IEmployeeRepo.ShowEmployees();
         }
 
     }

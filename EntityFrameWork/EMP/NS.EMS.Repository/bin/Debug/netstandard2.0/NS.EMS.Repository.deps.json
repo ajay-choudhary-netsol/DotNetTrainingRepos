@@ -1243,7 +1243,8 @@
       },
       "NS.EMS.Data/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.22"
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.22",
+          "NS.EMS.Model": "1.0.0"
         },
         "runtime": {
           "NS.EMS.Data.dll": {}

@@ -160,3 +160,4 @@ C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMP.WEB\o
 C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMP.WEB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMP.WEB\obj\Debug\netcoreapp3.1\Razor\Views\Employee\GetAllEmployees.cshtml.g.cs
 C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMP.WEB\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\Ajay Choudhary\Desktop\dotnettrainings\EntityFrameWork\EMP\NS.EMP.WEB\obj\Debug\netcoreapp3.1\Razor\Views\Employee\ShowEmployees.cshtml.g.cs
