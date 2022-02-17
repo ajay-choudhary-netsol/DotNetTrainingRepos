@@ -1,0 +1,14 @@
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\bin\Debug\netstandard2.0\NS.SMS.Repository.deps.json
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\bin\Debug\netstandard2.0\NS.SMS.Repository.dll
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\bin\Debug\netstandard2.0\NS.SMS.Repository.pdb
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\obj\Debug\netstandard2.0\NS.SMS.Repository.csprojAssemblyReference.cache
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\obj\Debug\netstandard2.0\NS.SMS.Repository.AssemblyInfoInputs.cache
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\obj\Debug\netstandard2.0\NS.SMS.Repository.AssemblyInfo.cs
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\obj\Debug\netstandard2.0\NS.SMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\obj\Debug\netstandard2.0\NS.SMS.Repository.dll
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\obj\Debug\netstandard2.0\NS.SMS.Repository.pdb
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\bin\Debug\netstandard2.0\NS.SMS.Data.dll
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\bin\Debug\netstandard2.0\NS.SMS.Model.dll
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\bin\Debug\netstandard2.0\NS.SMS.Data.pdb
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\bin\Debug\netstandard2.0\NS.SMS.Model.pdb
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Repository\obj\Debug\netstandard2.0\NS.SMS.Repository.csproj.CopyComplete

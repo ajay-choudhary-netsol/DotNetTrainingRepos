@@ -1,0 +1,9 @@
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Model\bin\Debug\netstandard2.0\NS.SMS.Model.deps.json
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Model\bin\Debug\netstandard2.0\NS.SMS.Model.dll
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Model\bin\Debug\netstandard2.0\NS.SMS.Model.pdb
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Model\obj\Debug\netstandard2.0\NS.SMS.Model.csprojAssemblyReference.cache
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Model\obj\Debug\netstandard2.0\NS.SMS.Model.AssemblyInfoInputs.cache
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Model\obj\Debug\netstandard2.0\NS.SMS.Model.AssemblyInfo.cs
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Model\obj\Debug\netstandard2.0\NS.SMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Model\obj\Debug\netstandard2.0\NS.SMS.Model.dll
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Model\obj\Debug\netstandard2.0\NS.SMS.Model.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Business\bin\Debug\netstandard2.0\NS.SMS.Business.deps.json
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Business\bin\Debug\netstandard2.0\NS.SMS.Business.dll
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Business\bin\Debug\netstandard2.0\NS.SMS.Business.pdb
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Business\obj\Debug\netstandard2.0\NS.SMS.Business.AssemblyInfoInputs.cache
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Business\obj\Debug\netstandard2.0\NS.SMS.Business.AssemblyInfo.cs
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Business\obj\Debug\netstandard2.0\NS.SMS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Business\obj\Debug\netstandard2.0\NS.SMS.Business.dll
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Business\obj\Debug\netstandard2.0\NS.SMS.Business.pdb
+C:\Users\Ajay Choudhary\source\repos\SMS\NS.SMS.Business\obj\Debug\netstandard2.0\NS.SMS.Business.csprojAssemblyReference.cache

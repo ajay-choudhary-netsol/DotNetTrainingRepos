@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NS.SMS.Data\NS.SMS.Data.csproj" />
+    <ProjectReference Include="..\NS.SMS.Model\NS.SMS.Model.csproj" />
+  </ItemGroup>
+
+</Project>
