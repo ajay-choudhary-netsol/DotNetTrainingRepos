@@ -58,6 +58,7 @@ GO
 exec uspGetEmployeeDetails;
 
 ---------PAGINATION-------
+--One Way--
 
 DECLARE @PageNumber AS INT
             DECLARE @RowsOfPage AS INT
@@ -80,6 +81,24 @@ DECLARE @PageNumber AS INT
 		 INNER JOIN EMPLOYEEDETAILS ED ON E.EmpID=ED.EmpID
         ORDER BY ED.EmpDetailsID DESC
 		OFFSET 3 ROWS;
+
+--Another Way---
+CREATE PROCEDURE uspPagination
+@istartRowIndex INT,                                          
+@imaximumRows INT                          
+AS
+BEGIN
+	SET NOCOUNT ON;
+	SELECT * FROM                            
+  (                          
+   SELECT ROW_NUMBER() OVER (ORDER BY EmpId)-1 AS Row,* FROM EMPLOYEE                        
+  )EMPLOYEE                          
+WHERE (Row between (@istartRowIndex) AND @istartRowIndex + (@imaximumRows -1))    
+END
+GO
+EXEC uspPagination @istartRowIndex=1, @imaximumRows=8
+
+
 
 
 
