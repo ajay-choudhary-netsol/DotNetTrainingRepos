@@ -96,7 +96,7 @@ BEGIN
 WHERE (Row between (@istartRowIndex) AND @istartRowIndex + (@imaximumRows -1))    
 END
 GO
-EXEC uspPagination @istartRowIndex=1, @imaximumRows=8
+EXEC uspPagination @istartRowIndex=1, @imaximumRows=6
 
 
 
