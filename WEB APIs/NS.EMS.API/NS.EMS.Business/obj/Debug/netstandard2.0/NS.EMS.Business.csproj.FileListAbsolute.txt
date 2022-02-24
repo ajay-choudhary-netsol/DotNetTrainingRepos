@@ -1,0 +1,14 @@
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\bin\Debug\netstandard2.0\NS.EMS.Business.deps.json
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\bin\Debug\netstandard2.0\NS.EMS.Business.dll
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\bin\Debug\netstandard2.0\NS.EMS.Business.pdb
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\bin\Debug\netstandard2.0\NS.EMS.Data.dll
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\bin\Debug\netstandard2.0\NS.EMS.Repository.dll
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\bin\Debug\netstandard2.0\NS.EMS.Repository.pdb
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\bin\Debug\netstandard2.0\NS.EMS.Data.pdb
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\obj\Debug\netstandard2.0\NS.EMS.Business.csprojAssemblyReference.cache
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\obj\Debug\netstandard2.0\NS.EMS.Business.AssemblyInfoInputs.cache
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\obj\Debug\netstandard2.0\NS.EMS.Business.AssemblyInfo.cs
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\obj\Debug\netstandard2.0\NS.EMS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\obj\Debug\netstandard2.0\NS.EMS.Business.csproj.CopyComplete
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\obj\Debug\netstandard2.0\NS.EMS.Business.dll
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Business\obj\Debug\netstandard2.0\NS.EMS.Business.pdb

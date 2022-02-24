@@ -1,0 +1,12 @@
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\bin\Debug\netstandard2.0\NS.EMS.Repository.deps.json
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\bin\Debug\netstandard2.0\NS.EMS.Repository.dll
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\bin\Debug\netstandard2.0\NS.EMS.Repository.pdb
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\bin\Debug\netstandard2.0\NS.EMS.Data.dll
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\bin\Debug\netstandard2.0\NS.EMS.Data.pdb
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\obj\Debug\netstandard2.0\NS.EMS.Repository.csprojAssemblyReference.cache
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\obj\Debug\netstandard2.0\NS.EMS.Repository.AssemblyInfoInputs.cache
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\obj\Debug\netstandard2.0\NS.EMS.Repository.AssemblyInfo.cs
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\obj\Debug\netstandard2.0\NS.EMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\obj\Debug\netstandard2.0\NS.EMS.Repository.csproj.CopyComplete
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\obj\Debug\netstandard2.0\NS.EMS.Repository.dll
+C:\Users\Ajay Choudhary\Desktop\DotNetTrainingRepos\WEB APIs\NS.EMS.API\NS.EMS.Repos\obj\Debug\netstandard2.0\NS.EMS.Repository.pdb
