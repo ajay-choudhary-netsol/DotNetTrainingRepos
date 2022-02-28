@@ -1,0 +1,88 @@
+﻿@using NS.OCS.Data.Entities
+@model ProductDetails
+
+@{
+    ViewData["Title"] = "EditProduct";
+}
+
+<h1>EditProduct</h1>
+
+<h4>ProductModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <form class="Form" method="post" asp-action="EditProduct" asp-controller="Product" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @Html.AntiForgeryToken()
+            <div class="form-group">
+                @*<label asp-for="ProductId" class="control-label"></label>*@
+                @Html.HiddenFor(model => model.ProductId)
+                @Html.LabelFor(model => model.ProductId, htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.TextBoxFor(model => model.ProductId, new { disabled = "disabled", @readonly = "readonly" })
+
+                @* <input asp-for="ProductId" class="form-control" />*@
+                <span asp-validation-for="ProductId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductName" class="control-label"></label>
+                <input asp-for="ProductName" class="form-control" />
+                <span asp-validation-for="ProductName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductType" class="control-label"></label>
+                <input asp-for="ProductType" class="form-control" />
+                <span asp-validation-for="ProductType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductMake" class="control-label"></label>
+                <input asp-for="ProductMake" class="form-control" />
+                <span asp-validation-for="ProductMake" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ram" class="control-label"></label>
+                <input asp-for="Ram" class="form-control" />
+                <span asp-validation-for="Ram" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Os" text-style="bold">Operating System</label>
+                <br />
+                <span>WINDOWS: </span> @Html.RadioButton("Os", "WINDOWS", true)
+                <span> | MAC OS: </span> @Html.RadioButton("Os", "MAC-OS", false)
+                <span> | Linux: </span> @Html.RadioButton("Os", "Linux", false)
+            </div>
+            <div class="form-group">
+                <label asp-for="Hdd" class="control-label"></label>
+                <input asp-for="Hdd" class="form-control" />
+                <span asp-validation-for="Hdd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageFile" class="control-label"></label>
+                <input type="text" asp-for=ImageFile />
+                @Html.TextBoxFor(m => m.ImageFile, new { type = "file", multiple = "multiple" })
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ShowAllProducts">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

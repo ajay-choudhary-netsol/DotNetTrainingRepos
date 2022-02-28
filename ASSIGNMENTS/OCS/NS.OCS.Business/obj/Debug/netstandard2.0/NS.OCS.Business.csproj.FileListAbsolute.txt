@@ -1,0 +1,16 @@
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\bin\Debug\netstandard2.0\NS.OCS.Business.deps.json
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\bin\Debug\netstandard2.0\NS.OCS.Business.dll
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\bin\Debug\netstandard2.0\NS.OCS.Business.pdb
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\bin\Debug\netstandard2.0\NS.OCS.Data.dll
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\bin\Debug\netstandard2.0\NS.OCS.Model.dll
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\bin\Debug\netstandard2.0\NS.OCS.Repository.dll
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\bin\Debug\netstandard2.0\NS.OCS.Repository.pdb
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\bin\Debug\netstandard2.0\NS.OCS.Data.pdb
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\bin\Debug\netstandard2.0\NS.OCS.Model.pdb
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\obj\Debug\netstandard2.0\NS.OCS.Business.csprojAssemblyReference.cache
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\obj\Debug\netstandard2.0\NS.OCS.Business.AssemblyInfoInputs.cache
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\obj\Debug\netstandard2.0\NS.OCS.Business.AssemblyInfo.cs
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\obj\Debug\netstandard2.0\NS.OCS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\obj\Debug\netstandard2.0\NS.OCS.Business.csproj.CopyComplete
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\obj\Debug\netstandard2.0\NS.OCS.Business.dll
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Business\obj\Debug\netstandard2.0\NS.OCS.Business.pdb

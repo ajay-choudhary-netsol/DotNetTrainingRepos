@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "ShowAllEmployees";
+}
+@using NS.OCS.WEB.Services
+@model List<NS.OCS.Data.Entities.ProductDetails>
+<h2>Product Details</h2>
+<hr/>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Image</th>
+            <th scope="col">Name</th>
+            <th scope="col">ProductType</th>
+            <th scope="col">ProductMake</th>
+            <th scope="col">RAM</th>
+            <th scope="col">OS</th>
+            <th scope="col">HDD</th>
+            <th scope="col">Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            @*<th scope="row"></th>*@
+            <td> <img src="@item.Image" height=100 width=100 /></td>
+            <td>@Html.ActionLink(item.ProductName, "ShowProductDetails", "Product", new { id = (@item.ProductId) })</td>
+            <td>@item.ProductType</td>
+            <td>@item.ProductMake</td>
+            <td>@item.Ram</td>
+            <td>@item.Os</td>
+            <td>@item.Hdd</td>
+            <td>Rs.@item.Price</td>
+            <td>@Html.ActionLink("Edit", "EditProduct", new { id = @item.ProductId })</td>
+            <td>@Html.ActionLink("Delete", "DeleteProduct", new { id = @item.ProductId })</td>
+        </tr>
+
+        }
+    </tbody>
+</table>
+
+@*<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+
+@section Scripts{
+    <script type="text/javascript">
+    function openSuccessModal(strMessage) {
+        var myDiv = document.getElementById("MyModalSuccessAlertBody");
+        myDiv.innerHTML = strMessage;
+        $('#myModalSuccess').modal('show');
+    }
+
+    $(document).ready(function()
+    {
+        var msg = "@TempData["SuccessMessage"]";
+        if (msg)
+            openSuccessModal(msg);
+    }
+    </script>*@

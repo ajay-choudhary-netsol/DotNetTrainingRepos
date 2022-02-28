@@ -21,6 +21,7 @@ namespace NS.EMS.Data.Entities
 
         public virtual DbSet<Dept> Dept { get; set; }
         public virtual DbSet<Employee> Employee { get; set; }
+        public virtual DbSet<Login> Login { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -49,6 +50,15 @@ namespace NS.EMS.Data.Entities
                     .IsUnicode(false);
 
                 entity.Property(e => e.Mobile).HasMaxLength(50);
+            });
+
+            modelBuilder.Entity<Login>(entity =>
+            {
+                entity.HasKey(e => e.UserId);
+
+                entity.Property(e => e.Password).HasMaxLength(300);
+
+                entity.Property(e => e.UserName).HasMaxLength(100);
             });
 
             OnModelCreatingPartial(modelBuilder);

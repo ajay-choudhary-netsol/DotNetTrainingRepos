@@ -1,0 +1,12 @@
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\bin\Debug\netstandard2.0\NS.OCS.Model.dll
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\obj\Debug\netstandard2.0\NS.OCS.Data.csprojAssemblyReference.cache
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\obj\Debug\netstandard2.0\NS.OCS.Data.AssemblyInfoInputs.cache
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\obj\Debug\netstandard2.0\NS.OCS.Data.AssemblyInfo.cs
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\bin\Debug\netstandard2.0\NS.OCS.Data.deps.json
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\bin\Debug\netstandard2.0\NS.OCS.Data.dll
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\bin\Debug\netstandard2.0\NS.OCS.Data.pdb
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\bin\Debug\netstandard2.0\NS.OCS.Model.pdb
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\obj\Debug\netstandard2.0\NS.OCS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\obj\Debug\netstandard2.0\NS.OCS.Data.csproj.CopyComplete
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\obj\Debug\netstandard2.0\NS.OCS.Data.dll
+C:\Users\Ajay Choudhary\source\repos\OCS\NS.OCS.Data\obj\Debug\netstandard2.0\NS.OCS.Data.pdb
